@@ -22,8 +22,8 @@ color:
     - '#917a5f'
   brandStrength: 0.375
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose:
   - name: follow
     item: null
